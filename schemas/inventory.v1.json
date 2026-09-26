@@ -1,0 +1,10 @@
+{
+  "schema": "ehmta.inventory.v1",
+  "host": {},
+  "hardware": {},
+  "storage": [],
+  "network": [],
+  "security": {},
+  "resources": {},
+  "services": {}
+}

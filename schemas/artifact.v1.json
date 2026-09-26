@@ -1,0 +1,9 @@
+{
+  "schema": "ehmta.artifact.v1",
+  "operation_id": "",
+  "direction": "agent-to-management",
+  "name": "",
+  "size": 0,
+  "sha256": "",
+  "status": "PENDING"
+}

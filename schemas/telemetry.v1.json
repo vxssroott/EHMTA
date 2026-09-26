@@ -1,0 +1,14 @@
+{
+  "schema": "ehmta.telemetry.v1",
+  "agent": {},
+  "timestamp": "",
+  "host": {},
+  "hardware": {},
+  "resources": {},
+  "storage": [],
+  "network": [],
+  "security": {},
+  "services": {},
+  "diagnostics": {},
+  "lifecycle": {}
+}

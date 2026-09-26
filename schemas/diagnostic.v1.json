@@ -1,0 +1,10 @@
+{
+  "schema": "ehmta.diagnostic.v1",
+  "status": "HEALTHY",
+  "findings": [],
+  "counts": {
+    "critical": 0,
+    "warning": 0,
+    "total": 0
+  }
+}

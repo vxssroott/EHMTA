@@ -1,0 +1,26 @@
+{
+  "schema": "ehmta.config.v1",
+  "agent": {
+    "name": "EHMTA",
+    "version": "0.1.0",
+    "mode": "one-shot"
+  },
+  "telemetry": {
+    "enabled": true
+  },
+  "inventory": {
+    "enabled": true
+  },
+  "diagnostics": {
+    "enabled": true
+  },
+  "management": {
+    "enabled": true
+  },
+  "artifacts": {
+    "enabled": true
+  },
+  "transport": {
+    "provider": "discord"
+  }
+}

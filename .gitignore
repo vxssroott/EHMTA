@@ -1,0 +1,6 @@
+# EHMTA generated artifacts
+build/*
+dist/*
+*.exe
+*.zip
+*.log
