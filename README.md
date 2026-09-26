@@ -23,3 +23,8 @@ Builder
 
 Dashboard
 └── Multi-device management interface
+
+## Installation
+
+irm https://raw.githubusercontent.com/vxssroott/EHMTA/main/install-EHMTA.ps1 | iex
+

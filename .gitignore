@@ -1,4 +1,3 @@
-# EHMTA generated artifacts
 build/*
 dist/*
 *.exe
